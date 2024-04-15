@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an undergraduate thesis<br>🌱 I’m currently learning Unity <br>💬 Ask me about Game Development
+🔭 I’m currently working on an undergraduate thesis<br>🌱 I’m currently learning Unity
 
 
 ## 🌐 Socials:
