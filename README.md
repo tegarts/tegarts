@@ -15,8 +15,5 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tegarts&theme=nord&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
 ### 😂 Random Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
