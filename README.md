@@ -1,5 +1,5 @@
 <h1 align="center">Howdy👋, I'm Tegar Nur Hidayat</h1>
-<h3 align="center">I'm a Game & Android Developer</h3>
+<h3 align="center">I'm a Game Programmer & Android Developer</h3>
 <p align="center"> <img src="https://media.discordapp.net/attachments/905028564947173436/1229334137048141844/alirun-export.gif?ex=662f4da2&is=661cd8a2&hm=233f142ac73e24c8d939489add112bb13f641b31056f1fea2f322e1ea0ec4056&=&width=671&height=671" width="200" height="200"/> </p>
 
 
